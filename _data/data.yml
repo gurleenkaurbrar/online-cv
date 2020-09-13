@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Gurleen Kaur Brar
@@ -81,31 +81,31 @@ projects:
     assignments:
       - title: Azure Devops
         link: "#"
-        tagline: "Design and development of a system to perform analytics on Test Plans data in Azure DevOps to come up with useful insights for enterprise customers. Backend development of different APIs for Test plans product to provide easy solutions for manual testing needs of enterprise customers. Technologies/languages: C#, SQL, Data analytics"
+        tagline: "Design and development of a system to perform analytics on Test Plans data in Azure DevOps to come up with useful insights for enterprise customers. Backend development of different APIs for Test plans product to provide easy solutions for manual testing needs of enterprise customers. <br/> Technologies/languages: C#, SQL, Data analytics"
 
       - title: Reference Data Management - ETL framework
         link: "#"
-        tagline: "Design and development of an application to extract reference data from VISA mainframe systems, apply set of transformations and load into various database systems. Technologies/languages: Java, Apache Camel, SQL"
+        tagline: "Design and development of an application to extract reference data from VISA mainframe systems, apply set of transformations and load into various database systems. <br/> Technologies/languages: Java, Apache Camel, SQL"
       
       - title: Data consistency Validator
         link: "#"
-        tagline: "Developed an end-to-end framework for checking data consistency across Data Platform. Technologies/languages: Java, Hadoop, Hive"
+        tagline: "Developed an end-to-end framework for checking data consistency across Data Platform. <br/> Technologies/languages: Java, Hadoop, Hive"
         
       - title: Real Time Anomaly detection of transaction data metrics
         link: "#"
-        tagline: "Development of an API for detecting anomalies real time by taking model data in json format for training and applying various machine-learning algorithms like Holt Winters Triple Exponential model and Box Plot on it to generate an output specifying the predicted value of metrics and list of anomalies. Technologies/languages: Java, Machine learning, R"
+        tagline: "Development of an API for detecting anomalies real time by taking model data in json format for training and applying various machine-learning algorithms like Holt Winters Triple Exponential model and Box Plot on it to generate an output specifying the predicted value of metrics and list of anomalies. <br/> Technologies/languages: Java, Machine learning, R"
         
       - title: Hadoop Jobs Trigger Root Cause Analysis
         link: "#"
-        tagline: "Use of machine learning algorithms (Linear regression) to predict next run time of jobs in VISA system based on historical data. Technologies/languages: Java, Hadoop, Machine learning, R, SQL"
+        tagline: "Use of machine learning algorithms (Linear regression) to predict next run time of jobs in VISA system based on historical data. <br/> Technologies/languages: Java, Hadoop, Machine learning, R, SQL"
         
       - title: College Buddy
         link: "#"
-        tagline: "College recommender system to recommend relevant colleges to incoming graduate students based on their personal preferences and college rankings data. Technologies/skills: Python, Data mining."
+        tagline: "College recommender system to recommend relevant colleges to incoming graduate students based on their personal preferences and college rankings data. <br/> Technologies/skills: Python, Data mining."
 
       - title: Just to be on the safe side
         link: "#"
-        tagline: "Using random forest classifier to predict safest route based on historical USA accident data. Technologies/languages: Python, Machine learning."
+        tagline: "Using random forest classifier to predict safest route based on historical USA accident data. <br/> Technologies/languages: Python, Machine learning."
         
 education:
     - degree: MS in Computer Science (specialization in Machine Learning)
@@ -119,12 +119,13 @@ education:
       details: | 
         CGPA : 9.44 (out of 10)
 publications:
-    title: Publications
+    title: Other Achievements
     intro: |
       Successfully published a journal under International Journal of Applied Engineering and research 
       (SCOPUS Indexed) titled An algorithm for De-skewing a document image
       which used customized Hough Transformation to calculate information entropy of a
       projection profile in a more efficient manner.
+      Awarded Academic Excellence certificate for the year 2013 and 2015 for being among the top 10 rank holders in B-Tech CSE.
 
 skills:
     title: Skills &amp; Proficiency
