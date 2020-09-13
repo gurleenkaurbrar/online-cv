@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Gurleen Kaur Brar
@@ -49,61 +49,63 @@ career-profile:
         contributing to the backend development of enterprise products as well as micro-services to some extent. 
         I love everything about data including data analytics and data science and have contributed to 
         development of systems that use the power of data to solve business problems and process optimization.
-  
 experiences:
     - role: Software Engineer
       time: April, 2019 - Present
       company: Microsoft-IDC, India
       details: |
-        AZURE DEV OPS ENTERPRISE PRODUCT DEVELOPMENT
+        Working as a product developer in Azure Devops team
+        to provide easy and efficient DevOps solutions to worldwide enterprise customers. 
+        Primary responsibilities include contributing to design and development of different modules under Test Plans and Analytics product.
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Jan, 2019 - April, 2019
+      company: Visa Inc, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Worked as part of the Reference Data Management team to build an in house ETL framework.
+        Core product developer, mentorship and ownership of the ETL tool are the primary roles.
+    - role: Software Engineer
+      time: Aug, 2016 - Dec, 2018
+      company: Visa Inc, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked as a part of the Data platform team to build a tool to check data consistency across various systems in Data Platform 
+        and detect anomalies across transactional data.
+    - role: Data science Intern
+      time: Mar, 2016 - May, 2016
+      company: Sigmaways, USA
+      details: |
+        Worked as a part of the Data Virtualization Platform team to contribute to the development of the Analytics engine at Sigmaways Labs. 
+        
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Azure Devops
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Design and development of a system to perform analytics on Test Plans data in Azure DevOps to come up with useful insights for enterprise customers. Backend development of different APIs for Test plans product to provide easy solutions for manual testing needs of enterprise customers. Technologies/languages: C#, SQL, Data analytics"
 
-      - title: Tempo
+      - title: Reference Data Management - ETL framework
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Design and development of an application to extract reference data from VISA mainframe systems, apply set of transformations and load into various database systems. Technologies/languages: Java, Apache Camel, SQL"
+      
+      - title: Data consistency Validator
+        link: "#"
+        tagline: "Developed an end-to-end framework for checking data consistency across Data Platform. Technologies/languages: Java, Hadoop, Hive"
+        
+      - title: Real Time Anomaly detection of transaction data metrics
+        link: "#"
+        tagline: "Development of an API for detecting anomalies real time by taking model data in json format for training and applying various machine-learning algorithms like Holt Winters Triple Exponential model and Box Plot on it to generate an output specifying the predicted value of metrics and list of anomalies. Technologies/languages: Java, Machine learning, R"
+        
+      - title: Hadoop Jobs Trigger Root Cause Analysis
+        link: "#"
+        tagline: "Use of machine learning algorithms (Linear regression) to predict next run time of jobs in VISA system based on historical data. Technologies/languages: Java, Hadoop, Machine learning, R, SQL"
+        
+      - title: College Buddy
+        link: "#"
+        tagline: "College recommender system to recommend relevant colleges to incoming graduate students based on their personal preferences and college rankings data. Technologies/skills: Python, Data mining."
 
-      - title: Atom
+      - title: Just to be on the safe side
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Using random forest classifier to predict safest route based on historical USA accident data. Technologies/languages: Python, Machine learning."
         
 education:
     - degree: MS in Computer Science (specialization in Machine Learning)
@@ -111,11 +113,6 @@ education:
       time: 2019 - present
       details: |
         CGPA : 3.16 (out of 5)
-        Projects
-          - Just to be on the safe side-: Using random forest classifier to predict safest route based on historical USA accident data.
-            Technologies/skills: Python, Machine learning.
-          - College Buddy -: College recommender system to recommend relevant colleges to incoming graduate students 
-            based on their personal preferences and college rankings data. Technologies/skills: Python, Data mining.
     - degree: B.Tech in Computer Science
       university: Vellore Institute of Technology, India 
       time: 2012 - 2016
@@ -134,13 +131,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 85%
+        level: 80%
 
       - name: Java
-        level: 85%
+        level: 75%
 
       - name: Data Structures &amp; Algorithms
-        level: 75%
+        level: 70%
 
       - name: SQL
         level: 85%
@@ -149,9 +146,9 @@ skills:
         level: 80%
 
       - name: Machine Learning
-        level: 70%
+        level: 65%
         
       - name: Data Analytics
-        level: 75%
+        level: 70%
 
 footer: >
