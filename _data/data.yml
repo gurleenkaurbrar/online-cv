@@ -54,7 +54,7 @@ experiences:
       time: April, 2019 - Present
       company: Microsoft-IDC, India
       details: |
-        Working as a product developer in Azure Devops team
+        Working as a product developer in Azure Devops team.
         to provide easy and efficient DevOps solutions to worldwide enterprise customers. 
         Primary responsibilities include contributing to design and development of different modules under Test Plans and Analytics product.
     - role: Senior Software Engineer
@@ -109,13 +109,13 @@ projects:
         
 education:
     - degree: MS in Computer Science (specialization in Machine Learning)
-      university: Georgia Institute of Technology, USA (2019 - present)
-      time: CGPA : 3.16 (out of 5)
-      details: |
-    - degree: B.Tech in Computer Science
-      university: Vellore Institute of Technology, India (2012 - 2016)
-      time: CGPA : 9.44 (out of 10)
+      university: Georgia Institute of Technology, USA 
+      time: 2019 - present
       details: | 
+    - degree: B.Tech in Computer Science
+      university: Vellore Institute of Technology, India
+      time: 2012 - 2016
+      details: |
       
 publications:
     title: Other Achievements
