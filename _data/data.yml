@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Gurleen Kaur Brar
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: gurleen719@yahoo.com
-    phone: +919786987628
+    phone: +91-9786987628
     website: blog.webjeda.com #do not add http://
     linkedin: gurleen-kaur-95739a158
     github: gurleenkaurbrar
@@ -47,39 +47,15 @@ career-profile:
     summary: |
         I am passionate about technology and a curious learner. I am a Software Engineer, 
         contributing to the backend development of enterprise products as well as micro-services to some extent. 
-        I love everything about data including data analytics abd data science and have contributed to 
+        I love everything about data including data analytics and data science and have contributed to 
         development of systems that use the power of data to solve business problems and process optimization.
-      
-education:
-    - degree: MS in Computer Science (specialization in Machine Learning)
-      university: Georgia Institute of Technology, USA
-      time: 2019 - present
-      details: |
-        Projects
-          - Just to be on the safe side-: Using random forest classifier to predict safest route based on historical USA accident data.
-            Technologies/skills: Python, Machine learning.
-          - College Buddy -: College recommender system to recommend relevant colleges to incoming graduate students 
-            based on their personal preferences and college rankings data. Technologies/skills: Python, Data mining.
-    - degree: B.Tech in Computer Science
-      university: Vellore Institute of Technology, India 
-      time: 2012 - 2016
-      details: | 
+  
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: April, 2019 - Present
+      company: Microsoft-IDC, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        AZURE DEV OPS ENTERPRISE PRODUCT DEVELOPMENT
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -128,50 +104,54 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        
+education:
+    - degree: MS in Computer Science (specialization in Machine Learning)
+      university: Georgia Institute of Technology, USA
+      time: 2019 - present
+      details: |
+        CGPA : 3.16 (out of 5)
+        Projects
+          - Just to be on the safe side-: Using random forest classifier to predict safest route based on historical USA accident data.
+            Technologies/skills: Python, Machine learning.
+          - College Buddy -: College recommender system to recommend relevant colleges to incoming graduate students 
+            based on their personal preferences and college rankings data. Technologies/skills: Python, Data mining.
+    - degree: B.Tech in Computer Science
+      university: Vellore Institute of Technology, India 
+      time: 2012 - 2016
+      details: | 
+        CGPA : 9.44 (out of 10)
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      Successfully published a journal under International Journal of Applied Engineering and research 
+      (SCOPUS Indexed) titled An algorithm for De-skewing a document image
+      which used customized Hough Transformation to calculate information entropy of a
+      projection profile in a more efficient manner.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 85%
+
+      - name: Data Structures &amp; Algorithms
+        level: 75%
+
+      - name: SQL
+        level: 85%
+
+      - name: Hadoop
+        level: 80%
+
+      - name: Machine Learning
+        level: 70%
+        
+      - name: Data Analytics
+        level: 75%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
