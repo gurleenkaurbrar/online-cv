@@ -69,7 +69,7 @@ experiences:
       details: |
         Worked as a part of the Data platform team to build a tool to check data consistency across various systems in Data Platform 
         and detect anomalies across transactional data.
-    - role: Data science Intern
+    - role: Data Science Intern
       time: Mar, 2016 - May, 2016
       company: Sigmaways, USA
       details: |
@@ -124,8 +124,7 @@ publications:
       Successfully published a journal under International Journal of Applied Engineering and research 
       (SCOPUS Indexed) titled An algorithm for De-skewing a document image
       which used customized Hough Transformation to calculate information entropy of a
-      projection profile in a more efficient manner.
-      Awarded Academic Excellence certificate for the year 2013 and 2015 for being among the top 10 rank holders in B-Tech CSE.
+      projection profile in a more efficient manner. <br/> Awarded Academic Excellence certificate for the year 2013 and 2015 for being among the top 10 rank holders in B-Tech CSE.
 
 skills:
     title: Skills &amp; Proficiency
