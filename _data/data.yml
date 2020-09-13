@@ -108,11 +108,11 @@ projects:
         
 education:
     - degree: MS in Computer Science (specialization in Machine Learning)
-      university: Georgia Institute of Technology, USA  (2019 - present)
+      university: Georgia Institute of Technology, USA <br/> 2019 - present
       time: CGPA 3.16 out of 5
       details: | 
     - degree: B.Tech in Computer Science
-      university: Vellore Institute of Technology, India (2012 - 2016)
+      university: Vellore Institute of Technology, India <br/> 2012 - 2016
       time: CGPA 9.44 out of 10
       details: |
       
